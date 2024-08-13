@@ -129,6 +129,7 @@ body {
 }
 #nav-left h4:hover {
     text-decoration: underline;
+    cursor: pointer;
 }
 
 #nav-right {
