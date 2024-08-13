@@ -129,6 +129,7 @@ body {
 }
 #nav-left h4:hover {
     text-decoration: underline;
+    cursor: pointer;
 }
 
 #nav-right {
@@ -254,7 +255,7 @@ body {
     height: 100%;
     width: 80%;
     /* background-color: gray; */
-    display: flex;
+    display: flex; 
 }
 
 #left,
